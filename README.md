@@ -1,4 +1,4 @@
-<h2 align="center">Github Follower Application</h2>
+<h2 align="center">Github Followers Application</h2>
 
 GitHub Followers is an iOS application developed using modern technologies for iOS 15 and above, featuring a fully programmatic user interface without any third-party libraries.<br/>
 This project performs multiple network requests to allow users to access detailed information about GitHub profiles, repositories, and followers. Additionally, users can quickly and easily revisit profiles by adding them to their favorites.<br/>
