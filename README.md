@@ -1,13 +1,10 @@
 <h2 align="center">Github Followers Application</h2>
 
 GitHub Followers is an iOS application developed using modern technologies for iOS 15 and above, featuring a fully programmatic user interface without any third-party libraries.<br/>
-This project performs multiple network requests to allow users to access detailed information about GitHub profiles, repositories, and followers. Additionally, users can quickly and easily revisit profiles by adding them to their favorites.<br/>
+This project performs multiple network requests to allow users to access detailed information about GitHub profiles, repositories, and followers. Additionally, users can quickly and easily revisit profiles by adding them to their favorites.
 
-The application consists of two main sections:<br/><br/>
-
-The Home Screen, which welcomes the user, and<br/>
-The Favorites Screen, which displays a list of favorited profiles.<br/>
-By entering a username, users can retrieve and view information about the corresponding GitHub profile. Profiles can be added to or removed from the favorites list.<br/>
+The application consists of two main sections:
+The Home Screen, which welcomes the user, and The Favorites Screen, which displays a list of favorited profiles. By entering a username, users can retrieve and view information about the corresponding GitHub profile. Profiles can be added to or removed from the favorites list.<br/>
 
 <p float="left"> <img src="https://github.com/MelihUluhan/GithubFollowers/blob/main/screenshots/main_screen.png" width="400" /> 
   <img src="https://github.com/MelihUluhan/GithubFollowers/blob/main/screenshots/favorites_screen.png" width="400" /> 
