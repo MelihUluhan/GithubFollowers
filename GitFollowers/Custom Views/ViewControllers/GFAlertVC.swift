@@ -74,7 +74,9 @@ class GFAlertVC: UIViewController {
     }
     
     func configureTitleLabel() {
-        titleLabel.text = alertTitle ?? "Something went wrong"
+        if let alertTitle = alertTitle {
+            titleLabel.text = alertTitle
+        }
         
         if image != nil {
             NSLayoutConstraint.activate([
